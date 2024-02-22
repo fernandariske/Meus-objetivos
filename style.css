@@ -1,0 +1,14 @@
+:rood {
+    --cor-de-fundo:#1E1E1E;
+    --verde: #1f960a;
+--branco: #FFFFFF;
+--botao-ativo:#2ca1f4;
+--botao-inativo: #08adb0;
+--texto-fundo: #da147a;
+ 
+
+body {
+    background-color: var-(--cor-de-fundo);
+    color: var(--branco);
+    font-family: ;
+}
